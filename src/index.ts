@@ -1,4 +1,4 @@
-console.log("Hellow world.");
+console.log("Hello world.");
 
 let test = document.querySelectorAll('#hello_test');
 
